@@ -34,3 +34,15 @@ body {
     outline: none;
     margin-top: 8px;
 }
+
+.button-gerar {
+    height: 40px;
+    background-color: #828282;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 40px;
+    color: #DFDFDF;
+    font-weight: bold;
+    font-size: 18px;
+}
