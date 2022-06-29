@@ -62,4 +62,15 @@ body {
     font-size: 28px;
     margin-top: 24px;
     margin-bottom: 8px;
-} 
+}
+
+.password {
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.40);
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    border: 1px solid #313131;
+}
